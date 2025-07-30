@@ -4,7 +4,7 @@
 
 📍 **Lorient, France**  
 📧 **Email**: azamat.shirinshoev@gmail.com  
-🌐 **Website**: [Portfolio](https://azamat0174.github.io/mindful_islands/)  
+🌐 **Website**: [Portfolio](https://azamat.work)  
 🔗 **LinkedIn**: [Azamat Shirinshoev](https://www.linkedin.com/in/azamat-shirinshoev-3b955a1a0)
 
 ---
