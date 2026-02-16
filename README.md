@@ -92,11 +92,9 @@ I'm a cybersecurity professional focused on **offensive security** and **penetra
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azamat0174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azamat0174&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat0174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
