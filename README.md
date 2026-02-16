@@ -10,7 +10,6 @@ Currently pursuing **Erasmus Mundus CYBERUS Master** in Cybersecurity at Univers
 
 I'm a cybersecurity professional focused on **offensive security** and **penetration testing**, with hands-on experience in vulnerability assessment, secure application development, and security research. My work spans mobile security analysis, network security, database hardening, and exploit development.
 
-- 🔍 Currently preparing for **CPTS (Certified Penetration Testing Specialist)**
 - 🏆 Active on **HackTheBox** - solving challenging penetration testing labs
 - 🔬 Conducting security research in **ICS environments** at University of León
 - 🎯 Passionate about **vulnerability research** and **exploit development**
@@ -91,14 +90,15 @@ I'm a cybersecurity professional focused on **offensive security** and **penetra
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azamat0174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azamat0174&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azamat0174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamat0174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azamat0174&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat0174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
@@ -134,27 +134,8 @@ Focus: Software Security, Cyber Defense, Penetration Testing
 
 ---
 
-## 🏆 Highlighted Repositories
-
 <p align="center">
-  <a href="https://github.com/Azamat0174/mobile-security-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azamat0174&repo=mobile-security-analysis&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Azamat0174/database-security-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azamat0174&repo=database-security-project&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Azamat0174/sdn-mitm-attacks-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azamat0174&repo=sdn-mitm-attacks-research&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azamat0174&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Azamat0174&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
